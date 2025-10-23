@@ -1,0 +1,3 @@
+- I just developed this mini-project to practis my dev-ops skills 
+- I will be creating more of them
+- This is tried README.md
