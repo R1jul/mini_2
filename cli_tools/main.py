@@ -2,7 +2,7 @@ import argparse
 
 
 def greet(name: str):
-    return f"Hey wassup, {name}"
+    return f"Hey wassup,{name}"
 
 
 def main():
